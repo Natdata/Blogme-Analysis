@@ -3,8 +3,8 @@ Articles Analysis &amp; Sentiment Analysis
 
 Python Scrypt including:
 
-- Data preproccesing
+- Data pre-proccesing
 - Flag adding function
-- Sentiment anaysis using Vader
+- Sentiment Anaysis using Vader
 
 
