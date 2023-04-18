@@ -14,7 +14,8 @@ Python Scrypt including:
 - Data pre-proccesing
 - Flag adding function
 - Sentiment Anaysis using Vader
-- Dashboard on Tableau:
+
+Dashboard on Tableau:
 https://public.tableau.com/app/profile/natalia.pijanowska/viz/ArticlesAnalysiswithusingVaderSentimentSegmentation/BlogMeNewsDashboard
 
 
