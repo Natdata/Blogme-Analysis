@@ -1,4 +1,4 @@
-![BlueBankLogo](C:\Users\pijan_000\Desktop\git projekty\Python Data Analytics Projects\Blue+Bank+Logo.png "Blue Bank")
+![BlogMeLogo](Blogme.py "BlogMe")
 
 # BlogMe-Analysis
 Articles Analysis &amp; Sentiment Analysis
